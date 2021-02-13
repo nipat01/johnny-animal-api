@@ -42,7 +42,7 @@ export class User {
     tel: Number
 
     @Column()
-    Image: String
+    image: String
 
     @Column()
     age: String
@@ -50,14 +50,14 @@ export class User {
     @Column()
     gender: String
 
-    @Column()
-    province: String
+    // @Column()
+    // province: String
 
-    @Column()
-    distict: String
+    // @Column()
+    // distict: String
 
-    @Column()
-    subdistict: String
+    // @Column()
+    // subdistict: String
 
     @Column()
     address: String

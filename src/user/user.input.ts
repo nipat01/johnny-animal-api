@@ -8,7 +8,7 @@ export interface UserDto {
     lastname: String
     lineId: Number
     tel: Number
-    Image: String
+    image: String
     age: String
     sex: String
     province: String
